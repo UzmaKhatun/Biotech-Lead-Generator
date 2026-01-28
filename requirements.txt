@@ -1,0 +1,32 @@
+# Core dependencies
+streamlit
+pandas
+numpy
+
+# PubMed integration
+biopython
+
+# HTTP requests
+requests
+
+# Data visualization
+plotly
+
+# Environment variables
+python-dotenv
+
+# Data export
+openpyxl
+
+# Utilities
+validators
+
+
+
+streamlit
+pandas
+requests
+beautifulsoup4
+biopython
+plotly
+python-dotenv

@@ -1,0 +1,47 @@
+{
+  "search_terms": [
+    "Drug-Induced Liver Injury",
+    "3D cell culture",
+    "organ-on-chip",
+    "hepatic spheroids",
+    "investigative toxicology",
+    "in vitro models",
+    "hepatotoxicity",
+    "preclinical safety"
+  ],
+  "high_score_titles": [
+    "director",
+    "head",
+    "professor",
+    "principal investigator",
+    "vp",
+    "chief"
+  ],
+  "high_score_keywords": [
+    "toxicology",
+    "safety",
+    "hepatic",
+    "liver",
+    "3D",
+    "in vitro"
+  ],
+  "hub_locations": [
+    "boston",
+    "cambridge",
+    "san francisco",
+    "bay area",
+    "basel",
+    "london",
+    "oxford",
+    "cambridge uk"
+  ],
+  "scoring_weights": {
+    "title_match": 30,
+    "company_funding": 20,
+    "tech_usage": 15,
+    "open_to_nams": 10,
+    "hub_location": 10,
+    "recent_publication": 40,
+    "corresponding_author": 15
+  }
+}
